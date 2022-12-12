@@ -1,4 +1,4 @@
 # Sanbercode-QA
-ini adalah deskripsi
 
 Sanbercode QA Bootcamp batch 40
+Periode Desember 2022
